@@ -88,7 +88,7 @@ class Solution:
 かかった時間： ３ min
 
 上記を書き直してわかりやすくしました。
-コメントも追加しました。
+コメントも追加しました。(実際の interview でコメント書いた方が良さそうと思いました。)
 
 ```python
 # Definition for singly-linked list.
